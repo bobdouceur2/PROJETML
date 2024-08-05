@@ -1,4 +1,4 @@
-# PROJETML - COLLO BRIAN, THIRUALAGAN Thinnujan - Dans le cadre du Prjoet de fin de quatrième année à l'école ESME
+# PROJETML - COLLO BRIAN, THIRUALAGAN Thinnujan - Dans le cadre du Projet de fin de quatrième année à l'école ESME
 
 Ce repository contient deux fichiers exécutables en python : MAIN et TESTS
 
